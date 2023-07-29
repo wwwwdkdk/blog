@@ -3,3 +3,8 @@ function Home() {
 }
 
 export default Home
+
+
+function BlogList(){
+    return <div>123</div>
+}
